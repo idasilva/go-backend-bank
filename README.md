@@ -3,6 +3,7 @@
 
 
 ## Database schema
+https://dbdiagram.io/d
 ```
 Table accounts as A {
   id bigserial [pk]
